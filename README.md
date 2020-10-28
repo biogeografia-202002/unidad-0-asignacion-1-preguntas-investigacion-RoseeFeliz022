@@ -6,7 +6,7 @@
 
     * En un espacio bidimensional, ¿existen tendencias apreciables de ordenación de las especies de mi familia seleccionada?
     
-    *Si existen tendencias de ordenación, ¿se asocian éstas con variables ambientales/atributos?
+    * Si existen tendencias de ordenación, ¿se asocian éstas con variables ambientales/atributos?
 
 * Ecología espacial:
 
